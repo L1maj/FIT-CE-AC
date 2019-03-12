@@ -3,7 +3,7 @@
 Faculdade Impacta de Tecnologia
 =====================
 
-##Comércio Eletrônico
+Comércio Eletrônico
 
 Atividade Continua 2-3 </br>
 Criar um site de 3 páginas
