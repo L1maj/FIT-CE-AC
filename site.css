@@ -50,6 +50,27 @@ body {
     display: flex !important;
 }
 
+.card{    
+    border: transparent;
+    margin: auto !important;        
+    width: 40%;    
+}
+
+.card-body{
+    text-align: left;
+    background-color: rgb(182, 182, 182);
+    color: rgb(63, 63, 63);
+}
+
+.card-header{
+    background-color: rgb(105, 105, 105);
+}
+
+.card-footer{
+    background-color: rgb(105, 105, 105);
+}
+
+
 /* Cover */
 
 .cover {
